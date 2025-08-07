@@ -1,8 +1,0 @@
-stress-ng: info:  [689597] setting to a 60 second run per stressor
-stress-ng: info:  [689597] dispatching hogs: 16 cpu, 4 vm, 4 hdd
-stress-ng: info:  [689597] successful run completed in 60.12s (1 min, 0.12 secs)
-stress-ng: info:  [689597] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
-stress-ng: info:  [689597]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
-stress-ng: info:  [689597] cpu             1080900     60.01    959.93      0.00     18012.89        1126.02
-stress-ng: info:  [689597] vm              9132266     60.01    216.91     11.99    152185.13       39896.31
-stress-ng: info:  [689597] hdd             1172000     60.08     21.92     29.72     19506.26       22695.58

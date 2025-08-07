@@ -1,0 +1,8 @@
+stress-ng: info:  [32415] setting to a 3600 second (1 hour, 0.00 secs) run per stressor
+stress-ng: info:  [32415] dispatching hogs: 16 cpu, 4 vm, 4 hdd
+stress-ng: info:  [32415] successful run completed in 470.81s (7 mins, 50.81 secs)
+stress-ng: info:  [32415] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: info:  [32415]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32415] cpu             8497374    470.55   7528.67      0.00     18058.29        1128.67
+stress-ng: info:  [32415] vm             69149999    470.55   1701.89     84.39    146954.29       38711.74
+stress-ng: info:  [32415] hdd             7808000    470.72    148.91    190.49     16587.34       23005.30
